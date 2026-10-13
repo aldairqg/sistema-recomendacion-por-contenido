@@ -1,0 +1,56 @@
+# Python: Bytecode y caché
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Pruebas y cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Archivos comprimidos (el dataset limpio está en archive/dataset.csv)
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# Credenciales, variables de entorno y metadatos
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs y bases de datos temporales
+*.log
+*.sqlite3
+*.db
