@@ -1,0 +1,62 @@
+[
+  {
+    "cell_index": 5,
+    "title": "#@title Celda 03 · Montar Google Drive",
+    "type": "ModuleNotFoundError",
+    "message": "No module named 'google'"
+  },
+  {
+    "cell_index": 7,
+    "title": "#@title Celda 04 · Definir ruta del CSV",
+    "type": "FileNotFoundError",
+    "message": "No se encontró el CSV: /content/drive/MyDrive/SONAR/dataset.csv\nMonta Drive, copia la ruta real del archivo y modifica RUTA_DATASET."
+  },
+  {
+    "cell_index": 9,
+    "title": "#@title Celda 05 · Leer CSV y verificar columnas",
+    "type": "FileNotFoundError",
+    "message": "No se encontró /content/drive/MyDrive/SONAR/dataset.csv. Revisa la ruta en la celda 4."
+  },
+  {
+    "cell_index": 12,
+    "title": "#@title Celda 06 · Definir el recomendador",
+    "type": "RuntimeError",
+    "message": "Ejecuta primero la celda 5 y verifica que indique «Esquema verificado»."
+  },
+  {
+    "cell_index": 13,
+    "title": "#@title Celda 07 · Preparar catálogo limpio",
+    "type": "RuntimeError",
+    "message": "Ejecuta primero la celda 5 para cargar el CSV y luego la 6."
+  },
+  {
+    "cell_index": 15,
+    "title": "#@title Celda 08 · Inspeccionar atributos y escalas",
+    "type": "RuntimeError",
+    "message": "Ejecuta primero las celdas 5, 6 y 7, en ese orden."
+  },
+  {
+    "cell_index": 17,
+    "title": "#@title Celda 09 · Ejecutar ejemplo",
+    "type": "NameError",
+    "message": "name 'modelo' is not defined"
+  },
+  {
+    "cell_index": 19,
+    "title": "#@title Celda 10 · Dibujar y explicar resultados",
+    "type": "NameError",
+    "message": "name 'resultado_ejemplo' is not defined"
+  },
+  {
+    "cell_index": 21,
+    "title": "#@title Celda 11 · Verificar cálculo matemático",
+    "type": "NameError",
+    "message": "name 'modelo' is not defined"
+  },
+  {
+    "cell_index": 23,
+    "title": "#@title Celda 12 · Abrir interfaz interactiva",
+    "type": "NameError",
+    "message": "name 'ejemplo' is not defined"
+  }
+]
